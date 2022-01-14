@@ -1,0 +1,8 @@
+
+
+x= ["hello", "hi", "hassan"]
+p x.max_by(&:length)
+
+
+y= [100, 500, 9]
+p y.max
