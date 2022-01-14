@@ -4,5 +4,5 @@ x= ["hello", "hi", "hassan"]
 p x.max_by(&:length)
 
 
-y= [100, 500, 9]
+y= [100, 500, 4444]
 p y.max
